@@ -1,0 +1,127 @@
+created with git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(green)(%ar)%C(reset) %C(black)%s%C(reset) %C(dim white)- %an%C(reset)%C(red)%d%C(reset)' --all
+* 16ae50b - (25 minutes ago) updated user stats - Jonathan Cook (HEAD -> main, origin/main, origin/HEAD)
+*   21cd21a - (70 minutes ago) Merge pull request #73 from NMSU-CS-CS371/CarterBetterMenus - carthomp88
+|\  
+| * d6f4e69 - (2 hours ago) player and first enemy image and animations - Carter Thompson (origin/CarterBetterMenus)
+| * 5595ae3 - (3 days ago) Jerry and Tanner images and animations - Carter Thompson
+| * 0041f7b - (11 days ago) initial commit on branch carterbettermenus - Carter Thompson
+|/  
+* f5224a0 - (11 days ago) fixed attack value reset between levels - Carter Thompson
+* c7298cf - (11 days ago) Definitely not the exact same font tweak #61 - Carter Thompson
+* 82d1a41 - (11 days ago) slight font tweak #61 - Carter Thompson
+* b815168 - (11 days ago) #61 Ui tweaks and #64 now visible - Carter Thompson
+* 16124ac - (11 days ago) Added attach change on evade tax - Elijah Nix
+* bb072a2 - (11 days ago) #61 startings of GUI rework - Carter Thompson
+* 8671fdb - (11 days ago) DEF turns red the turn before decreasing #49 - Carter Thompson
+* cec9bea - (11 days ago) Slight fix #51 - Carter Thompson
+* 5b03e5a - (11 days ago) #51 Separate name and title for better text line - Carter Thompson
+* de2c512 - (3 weeks ago) #44 image edits - grossest
+* cbb9b8e - (3 weeks ago) Fixed defense issue - Elijah Nix
+* 3808577 - (3 weeks ago) Added Animator class #60 #44 - Carter Thompson
+*   ef53842 - (3 weeks ago) Merge pull request #59 from NMSU-CS-CS371/Aren - carthomp88
+|\  
+| * 822c779 - (3 weeks ago) giant refactor and fixes, #50 #53 #54 #55 #56 #57 #58 - Aren Trombley (origin/Aren)
+| *   bcdac1d - (3 weeks ago) Merge pull request #52 from NMSU-CS-CS371/main - ArentSchool
+| |\  
+| |/  
+|/|   
+* | f6a977c - (3 weeks ago) Added defense functionality when paying tax - Elijah Nix
+* | dcf1aa4 - (3 weeks ago) fixed #48 - Carter Thompson
+* | 66faa23 - (3 weeks ago) weird damage bug fix and boss implementation - Carter Thompson
+* | a568f1c - (3 weeks ago) updated userstats - Jonathan Cook
+* |   985c165 - (3 weeks ago) Merge branch 'main' of github.com:NMSU-CS-CS371/cs371-fa2023-teamproject-combat-rpg into main - grossest
+|\ \  
+| * | ced066f - (3 weeks ago) updated nonAttackDamage - Elijah Nix
+| * | 833475d - (3 weeks ago) I hate git bash. Here are the new Boss characters! - Elijah Nix
+| * | 8755bbe - (3 weeks ago) Update Boss1.java - Elijah Nix
+| * | 7f21534 - (3 weeks ago) Update Character.java - Elijah Nix
+| * |   73b40a1 - (3 weeks ago) Merge pull request #47 from NMSU-CS-CS371/CarterMenuRefactor - carthomp88
+| |\ \  
+| | * | e0d6994 - (3 weeks ago) Added def indicator and removed next action $46 - Carter Thompson (origin/CarterMenuRefactor)
+| * | | cbaf1c4 - (3 weeks ago) Merge pull request #45 from NMSU-CS-CS371/CarterMenuRefactor - carthomp88
+| |\| | 
+| | * | 38d2b36 - (4 weeks ago) Big Menu Coupling Overhaul #28 #39 - Carter Thompson
+| |/ /  
+* / / c41bd77 - (3 weeks ago) added basic functions and placeholders for #44 - grossest
+|/ /  
+* | ebee18c - (4 weeks ago) updated max tax and defense value and finished boss 1 - Elijah Nix
+* | f559d8a - (5 weeks ago) fixed button alginment and added basic damage animations for #44 - grossest
+* | 29c965f - (5 weeks ago) Fixed levelnum issue - Carter Thompson
+* | d318bc1 - (5 weeks ago) Better Instructions - Carter Thompson
+* | b2c95ca - (5 weeks ago) Fixed Integer warning, removed tax kill for now - Carter Thompson
+* | 00f6b1f - (5 weeks ago) Merge pull request #43 from NMSU-CS-CS371/Aren - ArentSchool
+|\| 
+| * 8bcab17 - (5 weeks ago) #24 and #34 + cleanup - Aren Trombley
+* | 8f96e24 - (5 weeks ago) Merge pull request #42 from NMSU-CS-CS371/Aren - ArentSchool
+|\| 
+| * 69f73ae - (5 weeks ago) Refactored turns, defense, boss hits, completed defense decay, fixed various bugs, removed global variable - Aren Trombley
+| * 55ff5a9 - (5 weeks ago) Fixed #40, + typo - Aren Trombley
+| *   a65a0c6 - (5 weeks ago) Merge pull request #41 from NMSU-CS-CS371/main - ArentSchool
+| |\  
+| |/  
+|/|   
+* | ae1127d - (5 weeks ago) Game loop implementation #3 #4 #17 - Carter Thompson
+* | 2133217 - (5 weeks ago) basic turn counting implemented. will need refactoring as we get opponent turns set - Carter Thompson (origin/CarterNextLevel)
+* | d21def3 - (5 weeks ago) Added temporary(?) menu logo #36 - Carter Thompson
+* |   44798ed - (5 weeks ago) Merge branch 'main' of github.com:NMSU-CS-CS371/cs371-fa2023-teamproject-combat-rpg into main - grossest
+|\ \  
+| * | 1911f67 - (5 weeks ago) #35 made all of the menus have a consistent color scheme, made buttons in level change color when clicked - unknown
+* | | fbc1364 - (5 weeks ago) #35 made all of the menus have a consistent color scheme, made buttons in level change color when clicked - grossest
+|/ /  
+* | 19b8366 - (6 weeks ago) started menu colors and changed stuff for #30 - grossest
+* |   a8f43a6 - (6 weeks ago) Merge branch 'main' of github.com:NMSU-CS-CS371/cs371-fa2023-teamproject-combat-rpg into CarterNextLevel - Carter Thompson
+|\ \  
+| * | 467d910 - (6 weeks ago) initial repo user statistics - Jonathan Cook
+* | | 0349d75 - (6 weeks ago) Software design UML diagram - Carter Thompson
+|/ /  
+* | 2d0a14c - (6 weeks ago) Levels now have transition screens when hp = 0 - Carter Thompson
+* | 52530f7 - (6 weeks ago) Menus now track level number - Carter Thompson
+* |   249fd9b - (6 weeks ago) Merge branch 'main' of github.com:NMSU-CS-CS371/cs371-fa2023-teamproject-combat-rpg into CarterNextLevel - Carter Thompson
+|\ \  
+| * | fa7c3da - (7 weeks ago) added basic placeholder images #30 - grossest
+| * |   0b587cc - (7 weeks ago) Merge branch 'main' of github.com:NMSU-CS-CS371/cs371-fa2023-teamproject-combat-rpg - Carter Thompson
+| |\ \  
+| | * \   122cdba - (7 weeks ago) Merge pull request #29 from NMSU-CS-CS371/Elijah-(Character-Classes) - ArentSchool
+| | |\ \  
+| * | | | 20935f8 - (7 weeks ago) added domain model image - Carter Thompson
+| * | | | 3fe82f4 - (7 weeks ago) updated files to ignore - Carter Thompson
+| |/ / /  
+| * | | 75c07d5 - (8 weeks ago) Very basic character and GUI links for demo - Carter Thompson
+| * | |   04ab092 - (8 weeks ago) Merge pull request #23 from NMSU-CS-CS371/Elijah-(Character-Classes) - carthomp88
+| |\ \ \  
+| * | | | cad26b8 - (8 weeks ago) added and positioned attack, defend and tax buttons - unknown
+| * | | | 5a0bdd0 - (8 weeks ago) Improved Comments - Carter Thompson
+| * | | | 8462550 - (8 weeks ago) Menus now connect to each other and the level - Carter Thompson
+| * | | |   b93e7ad - (8 weeks ago) Merge pull request #22 from NMSU-CS-CS371/Carter - carthomp88 (origin/Sprint2Menus)
+| |\ \ \ \  
+| | * \ \ \   9dd882e - (8 weeks ago) Merge branch 'main' into Carter - carthomp88
+| | |\ \ \ \  
+| | |/ / / /  
+| |/| | | |   
+| * | | | |   66646ac - (8 weeks ago) Merge pull request #21 from NMSU-CS-CS371/Aren - carthomp88
+| |\ \ \ \ \  
+| | | |_|_|/  
+| | |/| | |   
+| | * | | | 8500810 - (8 weeks ago) Basic Main Menu - Aren Trombley
+| |/ / / /  
+* | / / / 130c759 - (6 weeks ago) Fix gitignore and find VSCode branch weirdness - Carter Thompson
+| |/ / /  
+|/| | |   
+* | | | 8f6f5c3 - (9 weeks ago) Instruction Menu Basic Text (needs Main Menu) - Carter Thompson
+* | | | 7a44c88 - (9 weeks ago) Changed StackPane to Pane for better polymorphism - Carter Thompson
+|/ / /  
+| | | * f4867d9 - (7 weeks ago) Refactored to make currentHealth private. #3 - Elijah Nix (origin/Elijah-(Character-Classes))
+| | |/  
+| | * dc598c9 - (7 weeks ago) Added string output to functions. #3 - Elijah Nix
+| |/  
+| * aef2c02 - (8 weeks ago) Initial Character Classes #2 - Elijah Nix
+| * 37f74de - (8 weeks ago) Initial Character Classes #2 - Elijah Nix
+|/  
+* 3e0fc4b - (9 weeks ago) Added color document - Carter Thompson
+* 239b524 - (9 weeks ago) Baseline Menu Class Implementation - Carter Thompson
+* 8e72105 - (10 weeks ago) Added close button, ignored .class files - Carter Thompson
+* bc6e276 - (10 weeks ago) Added comments - Carter Thompson
+* c618e4f - (10 weeks ago) Added on-click color change - Carter Thompson
+* 688e808 - (10 weeks ago) Added simple rectangle object - Carter Thompson
+* 603bb90 - (2 months ago) Basic HelloWorld JavaFX scene - Carter Thompson
+* e26ce07 - (3 months ago) init commit - Aren Trombley

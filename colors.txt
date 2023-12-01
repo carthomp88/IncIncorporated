@@ -1,0 +1,8 @@
+This text file can be used to store the common hex values for colors used in our project
+HelloFX Blue: #b5feff
+HelloFX Pink: #ffc7f3
+Red: #ed0c0c
+Green: #1ed611
+Blue: #1512cc
+Blue-Gray: #383752
+Light Gray: #cfcfd1

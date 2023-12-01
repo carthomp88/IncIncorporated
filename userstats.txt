@@ -1,0 +1,45 @@
+======== REPO stats ========
+User statistics, generated on 2023-11-27 11:10:01.668457
+------
+User: Elijah Nix       commits:12       pullrequests:0        othermerges:0       
+   filetype:.java      added:481        removed:144
+------
+User: grossest         commits:8        pullrequests:0        othermerges:2       
+   filetype:.java      added:221        removed:45
+   binfile:.png        number:15
+------
+User: Carter Thompson  commits:43       pullrequests:0        othermerges:3       
+   filetype:no-ext     added:7          removed:1
+   filetype:.java      added:1674       removed:735
+   filetype:.txt       added:9          removed:1
+   binfile:.png        number:10
+------
+User: unknown          commits:2        pullrequests:0        othermerges:0       
+   filetype:.java      added:62         removed:4
+------
+User: Jonathan Cook    commits:2        pullrequests:0        othermerges:0       
+   filetype:.txt       added:69         removed:24
+------
+User: carthomp88       commits:8        pullrequests:7        othermerges:1       
+------
+User: Aren Trombley    commits:6        pullrequests:0        othermerges:0       
+   filetype:.java      added:320        removed:344
+   filetype:.txt       added:1          removed:1
+------
+User: ArentSchool      commits:5        pullrequests:5        othermerges:0       
+------
+======== WIKI stats =========
+User statistics, generated on 2023-11-27 11:10:01.696537
+------
+User: griffin          commits:8        pullrequests:0        othermerges:0       
+   filetype:.md        added:51         removed:17
+------
+User: carthomp88       commits:45       pullrequests:0        othermerges:0       
+   filetype:.md        added:352        removed:130
+------
+User: Elijah Nix       commits:9        pullrequests:0        othermerges:0       
+   filetype:.md        added:65         removed:23
+------
+User: ArentSchool      commits:3        pullrequests:0        othermerges:0       
+   filetype:.md        added:16         removed:3
+------

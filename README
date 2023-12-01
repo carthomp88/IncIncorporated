@@ -1,0 +1,42 @@
+INC Incorporated Project Structure:
+- MOST IMPORTANT
+    - MenuManager.java
+    - RoundManager.java
+    - BasicLevel.java
+    - Animator.java
+    - Menu.java
+    - Character.java
+- MODERATELY IMPORTANT
+    - Boss.java
+    - Main.java
+    - Player.java
+    - CharacterManager.java
+- LESS IMPORTANT (MENUS, BOSSES)
+    - Boss1, Boss2, Boss3.java
+    - Credits.java
+    - GameOverScreen.java
+    - GameWinScreen.java
+    - InstructionMenu.java
+    - LevelWinScreen.java
+    - MainMenu.java
+- NOT CODE RELEVANT
+    - domainmodel.png
+    - repoactivity.txt
+    - softwaredesign.png
+    - userstats.txt
+
+HOW TO BUILD:
+This project is dependent on an up-to-date JDK and JavaFX installation.
+To compile and run from LINUX or MACOS command line:
+- Clone the repository or download the full project directory to the desired location on your system
+- Set a path to your JavaFX library: export PATH_TO_FX=<YOUR FILEPATH>/javafx-sdk-21.0.1/lib
+- Navigate to the repository
+- Compile all classes: javac --module-path $PATH_TO_FX --add-modules javafx.controls,javafx.media *.java
+- Run the Main class: java --module-path $PATH_TO_FX --add-modules javafx.controls,javafx.media Main
+
+To compile and run from WINDOWS command line:
+- Clone the repository or download the full project directory to the desired location on your system
+- Set a path to your JavaFX library: set PATH_TO_FX="<YOUR FILEPATH>/javafx-sdk-21.0.1/lib"
+- Navigate to the repository
+- Compile all classes: javac --module-path %PATH_TO_FX% --add-modules javafx.controls,javafx.media *.java
+- Run the Main class: java --module-path %PATH_TO_FX% --add-modules javafx.controls,javafx.media Main
